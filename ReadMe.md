@@ -1,3 +1,10 @@
+Final.ipynb : Trained model is loaded and tested to check whether a text is sexist or not
+Bert-base-uncased :  Bert model is trained for task A, B and C on processed and unprocessed data.
+Machine-Learning : Logistic Regression, SVM and Random Forest are trained on Task A, B, and C.
+Roberta-base : Roberta model is trained for task A, B and C on processed and unprocessed data.
+Visualize-processed.ipynb : distilbert-base-uncased is trained on unprocessed data for 3 tasks.
+Visualize.ipynb : distilbert-base-uncased is trained on processed data for 3 tasks.
+
 OUTLINE
 In this project, we try our hands on the task - ‘Explainable Detection of Online Sexism (EDOS)’, for which we are required to predict the sexist sentiments of a text and flag these appropriately.
 
