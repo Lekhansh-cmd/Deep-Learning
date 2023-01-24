@@ -28,20 +28,20 @@ Advantages:
 3. Process data in lesser time.
 4. Works with any type of sequential data.
 
-1. bert-base-uncased	
+BERT-BASE-UNCASED	
 - 12-layer, 768-hidden, 12-heads, 110M parameters. 
 - Trained on lower-cased English text.
 - It has this special ability to read in both directions simultaneously. Thus Bi-directional.
 - It combines Mask Language Model (MLM) and Next Sentence Prediction (NSP).
 - Easy route to using pre-trained models (transfer learning).
 
-2. distilbert-based-uncased	
+DISTILBERT-BASE-UNCASED	
 - 6-layer, 768-hidden, 12-heads, 66M parameters
 - The DistilBERT model distilled from the BERT model bert-base-uncased checkpoint
 - Small, fast, cheap and light Transformer model.
 - Runs 60% faster while preserving over 95% of BERT’s performances.
 
-3. RoBERTa-base	
+ROBERTA-BASED	
 - 12-layer, 768-hidden, 12-heads, 125M parameters
 - RoBERTa using the BERT-base architecture
 - Only uses Masked Language Model
